@@ -56,6 +56,7 @@ android_library {
         "src/**/*.java",
         "src/**/*.kt",
         "DerpSpace/src/**/*.java",
+        "DerpSpace/src/**/*.kt",
     ],
     exclude_srcs: [
         "src/com/android/settings/biometrics/fingerprint2/lib/**/*.kt",
